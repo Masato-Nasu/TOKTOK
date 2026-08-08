@@ -3,7 +3,7 @@
 **あなたに得なことだけ、見つけます。**  
 Search the web for deals, freebies, gifts and local offers — then learn what is valuable to you.
 
-![TOKTOK screenshot](./screenshot-main.png)
+![TOKTOK screenshot](./screenshot-main1.png)
 
 > Screenshot uses illustrative sample results. Actual offers are retrieved from the web and should be verified at the source before use.
 
