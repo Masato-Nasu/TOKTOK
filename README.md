@@ -5,7 +5,7 @@ Search the web for deals, freebies, gifts and local offers — then learn what i
 
 ### 検索画面
 
-<img src="./screenshot-search.jpg" width="360" alt="TOKTOK search screen">
+<img src="./screenshot-search1.jpg" width="360" alt="TOKTOK search screen">
 
 > Screenshots use illustrative sample results. Actual offers are retrieved from the web and should be verified at the source before use.
 
