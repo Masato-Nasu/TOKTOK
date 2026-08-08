@@ -3,11 +3,9 @@
 **あなたに得なことだけ、見つけます。**  
 Search the web for deals, freebies, gifts and local offers — then learn what is valuable to you.
 
-### 検索画面
+![TOKTOK screenshot](./screenshot-main.png)
 
-<img src="./screenshot-search1.jpg" width="360" alt="TOKTOK search screen">
-
-> Screenshots use illustrative sample results. Actual offers are retrieved from the web and should be verified at the source before use.
+> Screenshot uses illustrative sample results. Actual offers are retrieved from the web and should be verified at the source before use.
 
 ## What is TOKTOK?
 
